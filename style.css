@@ -1,0 +1,24 @@
+body {
+    color: #15171c;
+    background-color: #15171c;
+    font-family: Arial, sans-serif;
+    color: #e23737; 
+}
+
+.navbar {
+    background-color: #15171c;
+}
+
+.card {
+    border: 2px solid #ccc;
+    background-color: #9186c2;
+    font-family: 'Helvetica Neue', sans-serif; 
+    color: #f7f0f0; /* Color de texto en las tarjetas */
+}
+
+.card:hover {
+    border-color: #3d00cc;
+    background-color: #ffffff;
+}
+.card-body {
+    background-color: rgb(255, 255, 255);}
